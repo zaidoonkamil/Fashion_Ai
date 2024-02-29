@@ -1,0 +1,60 @@
+name: fashion
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  #api
+  dio: ^5.1.2
+  awesome_dio_interceptor: ^1.0.0
+  #local_storage
+  get_storage: ^2.1.1
+  shared_preferences: ^2.0.10
+  #state_management
+  flutter_bloc: ^8.1.2
+  bloc: ^8.1.1
+  #name and packag name
+  rename: ^2.1.1
+  #conditional
+  conditional_builder_null_safety: ^0.0.5
+  #icons
+  font_awesome_flutter: ^10.5.0
+  #grid
+  flutter_staggered_grid_view: ^0.4.0
+  #sliding image
+  carousel_slider: ^4.2.1
+  #drawer
+  flutter_slider_drawer_v: ^2.0.2
+  #bottom_sheet
+  bottom_sheet_bar: ^2.3.9
+  draggable_home: ^1.0.5
+  #snackbar
+  fluttertoast: ^8.2.1
+  #pickImage
+  image_picker: ^0.8.7+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
