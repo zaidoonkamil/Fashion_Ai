@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+![photo_4_2024-02-29_13-55-42](https://github.com/zaidoonkamil/Fashion_Ai/assets/95576756/d7597813-1545-434b-b07c-1365f7287689)
 
-This project is a starting point for a Flutter application.
+![photo_7_2024-02-29_13-55-42](https://github.com/zaidoonkamil/Fashion_Ai/assets/95576756/162a2786-593d-45aa-8a75-06a6ec992cb0)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_3_2024-02-29_13-55-42](https://github.com/zaidoonkamil/Fashion_Ai/assets/95576756/90690a14-e323-46a6-b53f-06f14c93ac9b)
